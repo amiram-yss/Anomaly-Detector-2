@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/usr/bin/gcc -DCMAKE_CXX_COMPILER=/usr/bin/g++ -G "CodeBlocks - Unix Makefiles" -S /Users/amiramyass/Downloads/Anomaly-Detector-7200e33b0ef0a534312681e29d9c9e62154f6c09 -B /Users/amiramyass/Downloads/Anomaly-Detector-7200e33b0ef0a534312681e29d9c9e62154f6c09/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/amiramyass/Downloads/Anomaly-Detector-7200e33b0ef0a534312681e29d9c9e62154f6c09/cmake-build-debug
